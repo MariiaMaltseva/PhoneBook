@@ -1,0 +1,66 @@
+.insivible-at-first{
+    display: none;
+}
+
+.navbar-inverse{
+    background-color: #1b6d85;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.navbar-inverse .navbar-collapse .navbar-nav a{
+    color: #ffff00;
+}
+
+.navbar-inverse .navbar-brand{
+    color: #ffff00;
+}
+
+table.table.table-striped tbody tr td:first-child {width:25%;}
+table.table.table-striped tbody tr td:last-child {text-align: center;}
+table.table.table-striped tbody tr td:nth-child(6) {text-align: center;}
+
+h5{
+    color: #ac2925;;
+}
+
+.container .btn-primary{
+    background-color: #1b6d85;
+    width: 100px;
+    color: #ffff00;
+}
+
+.register a{
+    color: #1b6d85;
+    margin-top: 800px;
+}
+
+.error{
+    float: left;
+    color:red;
+    font-weight:bold;
+    font-size: small;
+}
+
+.alert{
+    width:40%;
+    margin: 0 auto;
+}
+
+thead{
+    background-color: #1b6d85;
+    color: #ffff00;
+    align-items: center;
+    margin: 0 auto;
+}
+
+thead tr th{
+    text-align: center;
+}
+
+.btn-default {
+    color: #ffff00;
+    background-color: #1b6d85;   /* change  button color */
+    border-radius: 7px;    /* button border radius */
+    padding: 6px 10px;
+}

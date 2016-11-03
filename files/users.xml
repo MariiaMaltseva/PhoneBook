@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<userRoot>
+    <maxId>3</maxId>
+    <users>
+        <user>
+            <fullName>Nikolaeva Lena Vasilevna</fullName>
+            <id>1</id>
+            <login>lena</login>
+            <password>123456</password>
+        </user>
+        <user>
+            <fullName>Golovkin Igor Petrovich</fullName>
+            <id>2</id>
+            <login>qwerty</login>
+            <password>qwerty12</password>
+        </user>
+        <user>
+            <fullName>iwueeprouj</fullName>
+            <id>3</id>
+            <login>regex</login>
+            <password>09876</password>
+        </user>
+    </users>
+</userRoot>

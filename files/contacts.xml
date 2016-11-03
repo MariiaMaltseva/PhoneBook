@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<contactRoot>
+    <contacts>
+        <contact>
+            <cellPhone>+380 91 111 1111</cellPhone>
+            <firstName>Anton</firstName>
+            <id>1</id>
+            <idUser>2</idUser>
+            <lastName>Qwerty</lastName>
+            <middleName>Michailovich</middleName>
+        </contact>
+        <contact>
+            <cellPhone>+380 91 111 1111</cellPhone>
+            <email>anton@as.ru</email>
+            <firstName>Anton</firstName>
+            <homePhone>+380 4466 66666</homePhone>
+            <id>4</id>
+            <idUser>1</idUser>
+            <lastName>Axmed</lastName>
+            <middleName>Michailovich</middleName>
+        </contact>
+        <contact>
+            <address>Kiev</address>
+            <cellPhone>+380 98 786 6745</cellPhone>
+            <email>lenaA@com</email>
+            <firstName>Anton</firstName>
+            <homePhone>+380 44 567 4534</homePhone>
+            <id>6</id>
+            <idUser>1</idUser>
+            <lastName>Android</lastName>
+            <middleName>Michailovich</middleName>
+        </contact>
+        <contact>
+            <cellPhone>+380 99 999 88 77</cellPhone>
+            <firstName>Masha</firstName>
+            <id>7</id>
+            <idUser>1</idUser>
+            <lastName>Android</lastName>
+            <middleName>Michailovich</middleName>
+        </contact>
+        <contact>
+            <cellPhone>+380 99 999 88 77</cellPhone>
+            <firstName>Masha</firstName>
+            <id>8</id>
+            <idUser>2</idUser>
+            <lastName>QWERTY</lastName>
+            <middleName>Michailovich</middleName>
+        </contact>
+        <contact>
+            <address>YHGHDBTH n  yh t h nh yjfhb</address>
+            <cellPhone>+380 99 555 5555</cellPhone>
+            <email>tfkj'dsj@cvbn.jhg</email>
+            <firstName>ieurwo</firstName>
+            <homePhone>+380 44 231 5645</homePhone>
+            <id>9</id>
+            <idUser>1</idUser>
+            <lastName>iuyteprujp</lastName>
+            <middleName>wirui</middleName>
+        </contact>
+        <contact>
+            <address>Ukraine</address>
+            <cellPhone>+380 3167 58934</cellPhone>
+            <email>pushkinA.S@as.com</email>
+            <firstName>Aleksandr </firstName>
+            <homePhone>+380 44 123 4567</homePhone>
+            <id>10</id>
+            <idUser>2</idUser>
+            <lastName>Pushkin</lastName>
+            <middleName>Sergeevich</middleName>
+        </contact>
+    </contacts>
+    <maxId>10</maxId>
+</contactRoot>
