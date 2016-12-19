@@ -56,4 +56,9 @@ public class UserController {
         model.addAttribute("mode", "MODE_HOME");
         return "login";
     }
+
+    @PostMapping("/delete")
+    public String deleteUser(ModelMap model, @ModelAttribute int id){
+        return "register";
+    }
 }

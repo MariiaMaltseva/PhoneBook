@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="1258538727">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="MySQL - PhoneBook@localhost" uuid="d497d9a8-ee3e-459d-8db4-267835be387a">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
